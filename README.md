@@ -154,7 +154,8 @@ Without the correct key, decryption is impossible.
 * Losing your key means **permanent loss** of the transcript contents.
 * Keep backups of important keys in a password manager.
 ---
-**Author Information
+**Author Information**
+
 Joshua M Clatney (Clats97)**
 
 Ethical Pentesting Enthusiast
